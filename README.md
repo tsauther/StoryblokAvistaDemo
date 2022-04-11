@@ -1,3 +1,11 @@
+## Notes from "Hello World" instruction
+1. Download src from github
+2. cd to folder and run Powershell
+3. Install node packages (npm)  Note: must be on Node v12 + 
+4. Storyblock url: 
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
